@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "printing-kb": {
+      "command": "node",
+      "args": ["src/index.js"]
+    }
+  }
+}

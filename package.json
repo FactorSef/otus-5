@@ -1,0 +1,23 @@
+{
+  "name": "printing-kb-mcp",
+  "version": "1.0.0",
+  "description": "MCP-сервер: база знаний по 3D-печати (docs/) и помощник по собственной кодовой базе",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "printing-kb-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "inspect": "npx @modelcontextprotocol/inspector node src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.5"
+  }
+}
