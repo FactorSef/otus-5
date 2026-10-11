@@ -1,7 +1,7 @@
 # printing-kb-mcp
 
-Примеры запросов [requests.md](requests.md)
-Логи пишутся в [logs/](logs/mcp-server.log) (включены в репозиторий намеренно)
+Примеры запросов [requests.md](requests.md) \
+Логи пишутся в [logs/](logs/mcp-server.log) (включены в репозиторий намеренно) \
 Отчет в [report.md](report.md)
 
 ---
