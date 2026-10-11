@@ -3,6 +3,7 @@
 Примеры запросов [requests.md](requests.md)
 Логи пишутся в [logs/](logs/mcp-server.log) (включены в репозиторий намеренно)
 Отчет в [report.md](report.md)
+
 ---
 
 MCP-сервер на Node.js с двумя тулами:
